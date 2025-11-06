@@ -1,0 +1,141 @@
+{
+  "id": "Ajyey.united-states.topstreaming.flixpatrol",
+  "version": "4.4.4",
+  "name": "Top 10 Streaming 🌍",
+  "description": "Top 10 Catalog Lists from the main Streaming Platforms - Platforms: 13 - Content language: en-US",
+  "logo": "https://top-streaming.stream/logo.png",
+  "background": "https://via.placeholder.com/1920x1080/1a1a1a/FF6B35?text=TOP+STREAMING",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "apple-tv-movie-united-states",
+      "name": "Apple TV (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "apple-tv-series-united-states",
+      "name": "Apple TV (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "hbo-movie-united-states",
+      "name": "HBO (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "hbo-series-united-states",
+      "name": "HBO (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "vudu-movie-united-states",
+      "name": "Vudu (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "vudu-series-united-states",
+      "name": "Vudu (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "starz-movie-united-states",
+      "name": "STARZ (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "starz-series-united-states",
+      "name": "STARZ (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "hulu-movie-united-states",
+      "name": "Hulu (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "hulu-series-united-states",
+      "name": "Hulu (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "paramount-plus-movie-united-states",
+      "name": "Paramount+ (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "paramount-plus-series-united-states",
+      "name": "Paramount+ (Series)"
+    },
+    {
+      "type": "series",
+      "id": "discovery-plus-unified-united-states",
+      "name": "Discovery+ "
+    },
+    {
+      "type": "series",
+      "id": "crunchyroll-unified-united-states",
+      "name": "Crunchyroll"
+    },
+    {
+      "type": "series",
+      "id": "disney-unified-united-states",
+      "name": "Disney+"
+    },
+    {
+      "type": "movie",
+      "id": "amazon-prime-movie-united-states",
+      "name": "Prime Video (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "amazon-prime-series-united-states",
+      "name": "Prime Video (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "netflix-movie-united-states",
+      "name": "Netflix (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "netflix-series-united-states",
+      "name": "Netflix (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "popular-movie-global",
+      "name": "Global (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "popular-series-global",
+      "name": "Global (Series)"
+    },
+    {
+      "type": "movie",
+      "id": "peacock-movie-united-states",
+      "name": "Peacock (Movies)"
+    },
+    {
+      "type": "series",
+      "id": "peacock-series-united-states",
+      "name": "Peacock (Series)"
+    }
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb:"
+  ],
+  "behaviorHints": {
+    "configurable": true,
+    "configurationRequired": false
+  }
+}
